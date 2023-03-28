@@ -1,2 +1,2 @@
 # Typecast
-Typecast in C++
+Typecast for premitive and Class in C++
